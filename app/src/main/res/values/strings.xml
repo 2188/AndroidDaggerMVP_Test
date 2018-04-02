@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Demo_Dagger-2+RxAndroid+Retrofit</string>
+    <string name="title_masterdetail_list">Items</string>
+    <string name="title_masterdetail_detail">MasterDetail Detail</string>
 </resources>
