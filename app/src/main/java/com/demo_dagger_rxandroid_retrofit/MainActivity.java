@@ -2,6 +2,7 @@ package com.demo_dagger_rxandroid_retrofit;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -11,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-
+        Toast.makeText(MainActivity.this, "Hello Git Demo...", Toast.LENGTH_LONG).show();
 
 
     }
